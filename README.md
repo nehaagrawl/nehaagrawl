@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Software Enginner Graduate from  <a href="http://www.unb.br"> Rajiv Gandhi produyogiki University
 </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-</br>Full Stack Developer <a href="https://www.thoughtworks.com"></a>
+</br> Developer <a href="https://www.thoughtworks.com"></a>
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 ```javascript
 const Neha = {
   pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS , Java , C , C++ ],
-  tools: [React, Redux, Node, Docker],
+  code: [Javascript, HTML, CSS , Java , C , C++ , MySQL  ],
+  tools: [React, Redux, Node, Docker, Git],
   architecture: ["microservices"]
 }
 ```
