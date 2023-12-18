@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 ```javascript
 const Neha = {
   pronouns: "she" | "her",
-  code: [ Html, Css , Java , C , C++ , MySQL, Mongodb],
-  tools: [React, Node, Git,Spring Tool],
+  code: [ Java , python , C++ , MySQL, Mongodb],
+  tools: [Docker, Node, Git,Spring Tool],
   architecture: ["microservices"]
 }
 ```
