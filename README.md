@@ -14,15 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 <h2> Hi, I'm Neha Agrawal! <img src="https://media.giphy.com/media/cmxoQSPSRe0LYaMKjo/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Software Enginner Graduate from  <a href="http://www.unb.br"> Rajiv Gandhi produyogiki University
 </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </br> Developer <a href="https://www.thoughtworks.com"></a>
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>-->
+<h2> Hi, I'm Neha Agrawal! 👩🏽‍💻</h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>
+Currently a <strong>Software Designer</strong> at <a href="https://www.alstom.com">Alstom</a>, Bengaluru, India  
+<br>Passionate about building scalable systems and mentoring future tech leaders 🚀
 </em></p>
-
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
