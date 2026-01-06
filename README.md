@@ -76,7 +76,7 @@ const connectWithMe = {
   email: "codernehaa@gmail.com",
   linkedin: "linkedin.com/in/nehaagrawal",
   github: "github.com/nehaagrawl",
-  portfolio: "nehaagrawal.dev"
+  portfolio: "leetcode.com/u/nehaagrawal1305/"
 }
 
 
