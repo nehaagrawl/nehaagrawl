@@ -73,7 +73,7 @@ const alstomExperience = {
   ]
 }
 const connectWithMe = {
-  email: "neha.agrawal@example.com",
+  email: "codernehaa@gmail.com",
   linkedin: "linkedin.com/in/nehaagrawal",
   github: "github.com/nehaagrawl",
   portfolio: "nehaagrawal.dev"
