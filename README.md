@@ -34,6 +34,7 @@ const Neha = {
   tools: [Docker, Node, Git,Spring Tool],
   architecture: ["microservices"]
 }
+const experience = { company: "Alstom", role: "Software Designer", years: "3+", location: "Bengaluru, India", responsibilities: [ "Developed scalable microservices using Spring Boot", "Integrated CI/CD pipelines with Jenkins and Docker", "Collaborated with cross-functional teams for agile delivery", "Optimized backend performance and database queries" ] }
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
