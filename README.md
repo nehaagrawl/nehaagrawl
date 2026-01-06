@@ -33,31 +33,52 @@ Currently a <strong>Software Designer</strong> at <a href="https://www.alstom.co
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const Neha = {
+const NehaAgrawal = {
   pronouns: "she" | "her",
-  code: [ Java , python , C++ , MySQL, Mongodb],
-  tools: [Docker, Node, Git,Spring Tool],
-  architecture: ["microservices"]
-}
-const experience = {
-  company: "Alstom",
-  role: "Software Designer",
-  years: "3+",
+  title: "Software Designer",
   location: "Bengaluru, India",
-  responsibilities: [
-    "🚀 Developed scalable microservices using Spring Boot",
-    "🔧 Automated CI/CD pipelines with Jenkins, Docker & Kubernetes",
-    "📊 Built monitoring dashboards with Grafana & Prometheus",
-    "⚡ Optimized backend performance & reduced query latency by 40%",
-    "🤝 Collaborated with global teams for railway automation projects"
-  ],
-  highlights: [
-    "🏆 'Best Innovator' award for automating testing workflows",
-    "📈 Reduced downtime by 30% with proactive monitoring",
-    "👩‍🏫 Mentored 5+ junior developers in microservices & DevOps",
-    "💡 Speaker at internal tech meetups on 'Microservices in Real-World Projects'"
+  education: "B.Tech in Computer Science from Rajiv Gandhi Proudyogiki Vishwavidyalaya",
+  experience: "3+ years in backend development, DevOps, and microservices architecture",
+  currentCompany: "Alstom",
+  interests: [
+    "🚄 Railway automation systems",
+    "☁️ Cloud-native applications",
+    "📈 System performance optimization",
+    "👩‍🏫 Mentoring and tech evangelism"
   ]
 }
+const techStack = {
+  languages: ["Java", "Python", "C++", "SQL", "JavaScript"],
+  databases: ["MySQL", "MongoDB", "PostgreSQL"],
+  frameworks: ["Spring Boot", "Node.js", "Hibernate"],
+  devOps: ["Docker", "Jenkins", "Kubernetes", "Git", "Grafana", "Prometheus"],
+  architecture: ["Microservices", "REST APIs", "Event-driven systems"],
+  cloud: ["AWS", "Azure (basic)", "GCP (exploring)"]
+}
+const alstomExperience = {
+  role: "Software Designer",
+  duration: "3+ years",
+  achievements: [
+    "🚀 Built and deployed scalable microservices for railway automation",
+    "🔧 Integrated CI/CD pipelines using Jenkins, Docker, and Kubernetes",
+    "📊 Designed monitoring dashboards with Grafana and Prometheus",
+    "⚡ Reduced backend latency by 40% through query optimization",
+    "👥 Led agile sprints and collaborated with cross-functional global teams",
+    "🏆 Received 'Best Innovator' award for automation initiatives"
+  ],
+  leadership: [
+    "👩‍🏫 Mentored junior developers in backend and DevOps practices",
+    "🎤 Delivered internal tech talks on microservices and observability",
+    "📚 Contributed to internal documentation and knowledge bases"
+  ]
+}
+const connectWithMe = {
+  email: "neha.agrawal@example.com",
+  linkedin: "linkedin.com/in/nehaagrawal",
+  github: "github.com/nehaagrawl",
+  portfolio: "nehaagrawal.dev"
+}
+
 
 ```
 
